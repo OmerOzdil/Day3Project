@@ -8,4 +8,8 @@ public class AwesomeTest {
     // and now my project is in sync with remote repository.
 
     // now I made more awesome changes  and I AM BOUT TO push this back to GitHub.
+
+    // adding more lines
+    // added more stuff
+
 }
